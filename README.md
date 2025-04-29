@@ -41,7 +41,8 @@ This is a group project for the end of term in LIS 705 at the University of Wisc
 
 - **Research Question 4:** Do larger company sizes tend to offer higher average salaries within the same role category?
 
-  **Conclusion:** Small companies offered higher salaries for entry-level managerial roles, likely due to the need for managerial talent. Medium-sized companies offered the highest salaries for experienced-level managerial employees, while large companies were less competitive in salary offerings.
+  **Conclusion:** Entry-level managerial salaries are relatively stable across company sizes. In contrast, Executive salaries vary significantly: medium-sized companies offer the highest Executive pay, even exceeding that of large companies, while small companies offer the lowest. This suggests that medium-sized companies may offer more competitive Executive compensation to attract leadership talent during growth phases.
+
 
   ![Company Size Salary Comparison](https://github.com/user-attachments/assets/9385876b-1be3-4c5f-a069-275f048b47fe)
 
