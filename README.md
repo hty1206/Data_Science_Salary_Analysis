@@ -14,8 +14,8 @@ This is a group project for the end of term in LIS 705 at the University of Wisc
 | **company_size**                         | The size of the company.                                                                                     |
 | **employee_residence**                   | The residence of the employee.                                                                               |
 | **is_cross_country**                     | Indicates if the employee works cross-country, determined by comparing `employee_residence` and `company_location` (i.e., `df_cleaned['employee_residence'] != df_cleaned['company_location']`). |
-| **salary_level**                         | Derived data, indicating the salary level (calculated or categorized).                                       |
-| **role_category**                        | Derived data, categorizing the role (usually based on the job title or responsibilities).                   |
+| **salary_level**                         | Derived data, indicating the salary level (Low, Medium, and High).                                       |
+| **role_category**                        | Derived data, categorizing the role (Managerial, Technical, and Analytical).                   |
 | **avg_salary_per_role_and_company_size** | Summary data representing the average salary for each "role_category × company_size" combination.           |
   
 
