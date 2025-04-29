@@ -3,7 +3,6 @@
 This is a group project for the end of term in LIS 705 at the University of Wisconsin-Madison. The task is to analyze data science salaries. The dataset includes several key pieces of information such as job title, experience level, remote work ratio, and more. We chose this dataset to explore salary trends, the impact of remote work, and salary differences across countries. As future data analysts, understanding these patterns will help us prepare for the job market and make better career decisions.  
 
 ## ☞ Data Overview
-### Columns Used in the Dataset  
 1. **work_year**: Represents the year of employment.  
 2. **experience_level**: Represents the level of work experience.  
 3. **job_title**: The title of the job.  
